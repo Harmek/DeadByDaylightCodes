@@ -20,6 +20,13 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 * `DNDBD20` - D20 Badge and Mimic Charm
 
+### Nintendo Switch Codes
+
+Because Switch accounts can't get Twitch drops, they can redeem those instead. These codes don't work on other platforms.
+
+* `DROPTS` - Tryks Stand-in Charm, from Masquerade 2024 Twitch Drops - Expires 6/30/2024 1PM ET
+* `DROPOP` - Owlbear Plush Charm, from Masquerade 2024 Twitch Drops - Expires 6/30/2024 1PM ET
+
 ## Permanent Codes
 
 As far as we know, these codes don't have an expiration date.
