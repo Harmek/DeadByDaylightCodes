@@ -10,16 +10,13 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
-* `100KSLAY` - 100k Bloodpoints - Expires 6/15/2024
-* `INTERSECTIONALIYAY` - 100k Bloodpoints - Expires 6/15/2024
-* `PROUDDAVID` - 200 Iridescent Shards - Expires 6/15/2024
-* `PROUDSUSIE` - 100 Iridescent Shards - Expires 6/15/2024
 * `WHATISAMAN` - 129,415 Bloodpoints - Expires ?/?/?
 
 ### Cosmetics
 
 * `INFULLBLOOM` - Gloomy Spring Banner and Wilted Tulips Badge - Expires 6/21/2024
 * `DNDBD20` - D20 Badge and Mimic Charm - Expires 6/30/2024
+* `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
 
 ### Nintendo Switch Codes
 
