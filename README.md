@@ -11,6 +11,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 ### Currencies
 
 * `WHATISAMAN` - 129,415 Bloodpoints - Expires ?/?/?
+* `THANKU24` - 15 Rift Fragments - Expires 7/4/2024
 
 ### Cosmetics
 
@@ -24,6 +25,7 @@ Because Switch accounts can't get Twitch drops, they can redeem those instead. T
 
 * `DROPTS` - Tryks Stand-in Charm, from Masquerade 2024 Twitch Drops - Expires 6/30/2024 1PM ET
 * `DROPOP` - Owlbear Plush Charm, from Masquerade 2024 Twitch Drops - Expires 6/30/2024 1PM ET
+* `DROPMC` - Masquerade Chorus Badge, from Masquerade 2024 Twitch Drops - Expires 6/30/2024 1PM ET
 
 ## Permanent Codes
 
