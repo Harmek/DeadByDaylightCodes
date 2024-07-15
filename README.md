@@ -11,6 +11,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 ### Currencies
 
 * `LAFOGATA` - 300K Bloodpoints - Expires 7/19/24 at 11AM ET
+* `UMINOHI2024` - 300K Bloodpoints - Expires 7/19/24 at 11AM ET
 
 ### Cosmetics
 
