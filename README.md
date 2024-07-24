@@ -11,7 +11,6 @@ These codes are only valid for a specific period and have an expiration date. Re
 ### Currencies
 
 * `ARRAIALDBD24` - 300K Bloodpoints - Expires 7/27/24 at 11AM ET
-* `LARAINTHEFOG` - 100K Bloodpoints - Expires ?/?/?
 
 ### Cosmetics
 
