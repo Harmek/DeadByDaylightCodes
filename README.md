@@ -10,7 +10,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
-* `ARRAIALDBD24` - 300K Bloodpoints - Expires 7/27/24 at 11AM ET
+* `CN600K` - 600K Bloodpoints - Expires 8/15/24
 
 ### Cosmetics
 
@@ -21,9 +21,6 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 Because Switch accounts can't get Twitch drops, they can redeem those instead. These codes don't work on other platforms.
 
-* `DROPWE` - "Weary Eyes" Jonah Head - Expires 7/30/24 at 11AM ET
-* `DROPUAT` - "Unwanted Attentiion" Jonah Body - Expires 7/30/24 at 11AM ET.
-* `DROPBH` - "Back Home" Jonah Pants - Expires 7/30/24 at 11AM ET
 * `???` - ??? - Expires ?/?/?
 
 ## Permanent Codes
