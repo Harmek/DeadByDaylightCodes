@@ -10,8 +10,8 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
-* `CN600K` - 600K Bloodpoints - Expires 8/15/24
-
+* `???` - ??? - Expires ?/?/?
+  
 ### Cosmetics
 
 * `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
