@@ -14,7 +14,7 @@ These codes are only valid for a specific period and have an expiration date. Re
   
 ### Cosmetics
 
-* `THEDARKLORD` - Wax Candle Badge and Dusty Secrets Banner - Expires ?/?/?
+* `THEDARKLORD` - Wax Candle Badge and Dusty Secrets Banner - Expires 9/17/24 at 12PM ET
 * `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
 * `REDDIT1MIL` - 8-Bit Crow Badge - Expires ?/?/?
   
