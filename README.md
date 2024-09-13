@@ -10,6 +10,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
+* `BLOODPINT` - 500k Bloodpoints - Expires 9/19/24
 * `???` - ??? - Expires ?/?/?
   
 ### Cosmetics
@@ -22,9 +23,6 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 Because Switch accounts can't get Twitch drops, they can redeem those instead. These codes don't work on other platforms.
 
-* `DROPSC` - Snapper Casket Charm - Expires 9/10/24 at 11AM ET
-* `DROPDA` - Dominus Anger Badge - Expires 9/10/24 at 11AM ET
-* `DROPCT` - Clock Tower Banner - Expires 9/10/24 at 11AM ET
 * `???` - ??? - Expires ?/?/?
 
 ## Permanent Codes
