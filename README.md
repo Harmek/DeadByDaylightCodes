@@ -10,11 +10,11 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
-* `NOVASCASAS` - 250k Bloodpoints - Expires ?/??/??
 * `???` - ??? - Expires ?/?/?
   
 ### Cosmetics
 
+* `DBDDMAYOKE` - Japan DBD Day Charms (returning) - Expires 11/7/2024 (Japan Time)
 * `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
 * `REDDIT1MIL` - 8-Bit Crow Badge - Expires ?/?/?
   
