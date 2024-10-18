@@ -10,6 +10,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
+* `DBDDAY2024` - 300K Bloodpoints and 500 Iridescent Shards - Expires ?/?/?
 * `???` - ??? - Expires ?/?/?
   
 ### Cosmetics
