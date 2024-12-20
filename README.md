@@ -10,12 +10,11 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
-* `DBDDAY2024` - 300K Bloodpoints and 500 Iridescent Shards - Expires ?/?/?
 * `???` - ??? - Expires ?/?/?
   
 ### Cosmetics
 
-* `DBDDMAYOKE` - Japan DBD Day Charms (returning) - Expires 11/7/2024 (Japan Time)
+* `IFLOOKSCOULDCHILL` - Frosty Eyes Cosmetics for all years past (not just Skull Merchant, Knight, and Singularity)  - Expires ?/?/?
 * `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
 * `REDDIT1MIL` - 8-Bit Crow Badge - Expires ?/?/?
   
