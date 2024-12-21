@@ -10,6 +10,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
+* `MAKEITREINDEER` - 250k Bloodpoints - Expires 1/7/2025
 * `???` - ??? - Expires ?/?/?
   
 ### Cosmetics
