@@ -10,11 +10,11 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Currencies
 
-* `MAKEITREINDEER` - 250k Bloodpoints - Expires 1/7/2025
 * `???` - ??? - Expires ?/?/?
   
 ### Cosmetics
 
+* `ROLLD20` - D20 Die Charm - Expires 2/14/2025
 * `IFLOOKSCOULDCHILL` - Frosty Eyes Cosmetics for all years past (not just Skull Merchant, Knight, and Singularity)  - Expires ?/?/?
 * `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
 * `REDDIT1MIL` - 8-Bit Crow Badge - Expires ?/?/?
