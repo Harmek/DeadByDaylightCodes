@@ -11,6 +11,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 ### Currencies
 
 * `???` - ??? - Expires ?/?/?
+* `LUCKYBP2025` - 168,888 Bloodpoints - Expires 2/12/2025 
   
 ### Cosmetics
 
