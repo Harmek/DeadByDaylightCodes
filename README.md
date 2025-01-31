@@ -11,7 +11,8 @@ These codes are only valid for a specific period and have an expiration date. Re
 ### Currencies
 
 * `???` - ??? - Expires ?/?/?
-* `LUCKYBP2025` - 168,888 Bloodpoints - Expires 2/12/2025 
+* `LUCKYBP2025` - 168,888 Bloodpoints - Expires 2/12/2025
+* `HAPPYSNAKEYEAR2025` - 666,888 Bloodpoints + Snake Head Badge + 888 Iri Shards - Expires 2/12/2025 
   
 ### Cosmetics
 
