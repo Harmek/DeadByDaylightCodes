@@ -11,15 +11,10 @@ These codes are only valid for a specific period and have an expiration date. Re
 ### Currencies
 
 * `???` - ??? - Expires ?/?/?
-* `LUCKYBP2025` - 168,888 Bloodpoints - Expires 2/12/2025
-* `HAPPYSNAKEYEAR2025` - 666,888 Bloodpoints + Snake Head Badge + 888 Iri Shards - Expires 2/12/2025 
-  
+
 ### Cosmetics
 
-* `ROLLD20` - D20 Die Charm - Expires 2/14/2025
-* `IFLOOKSCOULDCHILL` - Frosty Eyes Cosmetics for all years past (not just Skull Merchant, Knight, and Singularity)  - Expires ?/?/?
-* `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns" - Expires ?/?/?
-* `REDDIT1MIL` - 8-Bit Crow Badge - Expires ?/?/?
+* `HOOKEDONU` - "HOOKED ON U" Palyer Badge - Expires 2/28/2025
   
 ### Nintendo Switch Codes
 
@@ -74,6 +69,9 @@ As far as we know, these codes don't have an expiration date.
 
 * `WARRIORPUPPERS` - Warrior Puppers Charm
 * `LETSROLL` - Mini Dwight Charm
+* `IFLOOKSCOULDCHILL` - Frosty Eyes Cosmetics for all years past (not just Skull Merchant, Knight, and Singularity)
+* `PARTYHATS24` - 4th and 5th Year Anniversary "Crowns"
+* `REDDIT1MIL` - 8-Bit Crow Badge
 
 ## How do I redeem codes in Dead By Daylight
 
