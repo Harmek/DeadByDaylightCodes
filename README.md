@@ -14,7 +14,7 @@ These codes are only valid for a specific period and have an expiration date. Re
 
 ### Cosmetics
 
-* `HOOKEDONU` - "HOOKED ON U" Palyer Badge - Expires 2/28/2025
+* `HOOKEDONU` - "HOOKED ON U" Player Badge - Expires 2/28/2025
   
 ### Nintendo Switch Codes
 
